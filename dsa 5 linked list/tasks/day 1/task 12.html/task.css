@@ -1,0 +1,26 @@
+body{
+    margin: 5px solid rgb(218, 12, 12);
+    border: 3px solid rgb(211, 20, 20);
+    border-radius: 5px;
+}
+h2{
+    text-align: center;}
+p{
+    text-align: center;
+}
+form{
+    border: 1px solid rgb(172, 175, 11);
+    background-color: rgb(43, 134, 122);
+    
+    border-radius: 15%;
+    
+}
+.submit{
+    border-right: 50px;
+    
+    justify-content: 
+
+}
+.image{
+    padding: 5%;
+}

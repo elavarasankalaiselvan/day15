@@ -1,0 +1,14 @@
+button:hover { 
+    text-decoration: none;
+    background-color: rgb(251, 255, 3);
+color: rgb(2, 252, 56);
+}
+
+li:hover { 
+    text-decoration: none;
+    background-color: rgb(251, 255, 3);
+color: rgb(2, 252, 56);
+}
+li:visited{
+    color: rgb(252, 8, 0);
+    }
